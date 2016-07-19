@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Objective: This program computes the inverse of a square matrix using the "solve" function in R.
 
 ## makeCacheMatrix:This function creates a special "matrix" object that can cache its inverse.
 
